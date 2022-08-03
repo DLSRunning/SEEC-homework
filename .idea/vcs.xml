@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/fifth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/first" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/forth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_first" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_fifth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_first" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_forth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_second" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_sixth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_third" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/second" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sixth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third" vcs="Git" />
+  </component>
+</project>

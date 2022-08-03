@@ -1,0 +1,4 @@
+todo:have lunch
+completed:do eye exercises
+todo:read books
+completed:play games
